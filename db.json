@@ -1,4 +1,5 @@
-"response" : {
+{
+  "response" : {
   "actions": [
     {
       "show": {
@@ -20,4 +21,5 @@
       }
     }
   ]
+}
 }
