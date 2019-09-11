@@ -12,10 +12,6 @@
                   { 
                      "label":"Q1402",
                      "url":"https://practice.speedlabs.in/dataimages/questionImages/P-Q1402.jpg"
-                  },
-                  { 
-                     "label":"Q1403",
-                     "url":"https://practice.speedlabs.in/dataimages/questionImages/P-Q1403.jpg"
                   }
                ]
             }
@@ -64,21 +60,6 @@
                   { 
                      "label":"P-Q1402-Solution",
                      "url":"https://practice.speedlabs.in/dataimages/fullsolutionImages/P-Q1402-Solution.jpg"
-                  }
-               ]
-            }
-         }
-      ]
-   },
-   "3":{ 
-      "actions":[ 
-         { 
-            "show":{ 
-               "body": "Here is the solution for your doubt 3",
-               "images":[ 
-                  { 
-                     "label":"P-Q1403-Solution",
-                     "url":"https://practice.speedlabs.in/dataimages/fullsolutionImages/P-Q1403-Solution.jpg"
                   }
                ]
             }
