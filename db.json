@@ -1,21 +1,84 @@
 { 
-   "resp":{ 
+   "respImg":{ 
       "actions":[ 
          { 
             "show":{ 
                "body": "The doubt posted by you seems to be similar to one of the below doubts posted by other students. Please choose the one which is the closest match by writing 1, 2 or 3 or if none seems to be matching, type 0",
                "images":[ 
                   { 
-                     "label":"Practice",
-                     "url":"https://www.speedlabs.in/images/ai-driven-practice.png"
+                     "label":"Q1401",
+                     "url":"https://practice.speedlabs.in/dataimages/questionImages/P-Q1401.jpg"
                   },
                   { 
-                     "label":"Main",
-                     "url":"https://www.speedlabs.in/images/img.png"
+                     "label":"Q1402",
+                     "url":"https://practice.speedlabs.in/dataimages/questionImages/P-Q1402.jpg"
                   },
                   { 
-                     "label":"Report",
-                     "url":"https://www.speedlabs.in/images/report.png"
+                     "label":"Q1403",
+                     "url":"https://practice.speedlabs.in/dataimages/questionImages/P-Q1403.jpg"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "respNone":{ 
+      "actions":[ 
+         { 
+            "show":{ 
+               "body": "The doubt posted by you seems to be similar to one of the below doubts posted by other students. Please choose the one which is the closest match by writing 1, 2 or 3 or if none seems to be matching, type 0"
+            }
+         }
+      ]
+   },
+   "0":{ 
+      "actions":[ 
+         { 
+            "show":{ 
+               "body": "We have sent your doubt to our expert panel and we shall get back on the solution soon"
+            }
+         }
+      ]
+   },
+   "1":{ 
+      "actions":[ 
+         { 
+            "show":{ 
+               "body": "Here is the solution for your doubt 1",
+               "images":[ 
+                  { 
+                     "label":"P-Q1401-Solution",
+                     "url":"https://practice.speedlabs.in/dataimages/fullsolutionImages/P-Q1401-Solution.jpg"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "2":{ 
+      "actions":[ 
+         { 
+            "show":{ 
+               "body": "Here is the solution for your doubt 2",
+               "images":[ 
+                  { 
+                     "label":"P-Q1402-Solution",
+                     "url":"https://practice.speedlabs.in/dataimages/fullsolutionImages/P-Q1402-Solution.jpg"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "3":{ 
+      "actions":[ 
+         { 
+            "show":{ 
+               "body": "Here is the solution for your doubt 3",
+               "images":[ 
+                  { 
+                     "label":"P-Q1403-Solution",
+                     "url":"https://practice.speedlabs.in/dataimages/fullsolutionImages/P-Q1403-Solution.jpg"
                   }
                ]
             }
