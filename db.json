@@ -1,25 +1,24 @@
-{
-  "response" : {
-  "actions": [
-    {
-      "show": {
-        "images": [
-          {
-            "label": "Practice",
-            "url": "https://www.speedlabs.in/images/ai-driven-practice.png"
-          },
-          {
-            "label": "Main",
-            "url": "https://www.speedlabs.in/images/img.png"
-          },
-          {
-            "label": "Report",
-            "url": "https://www.speedlabs.in/images/report.png"
-          }
-          
-        ]
-      }
-    }
-  ]
-}
+{ 
+   "response":{ 
+      "actions":[ 
+         { 
+            "show":{ 
+               "images":[ 
+                  { 
+                     "label":"Practice",
+                     "url":"https://www.speedlabs.in/images/ai-driven-practice.png"
+                  },
+                  { 
+                     "label":"Main",
+                     "url":"https://www.speedlabs.in/images/img.png"
+                  },
+                  { 
+                     "label":"Report",
+                     "url":"https://www.speedlabs.in/images/report.png"
+                  }
+               ]
+            }
+         }
+      ]
+   }
 }
