@@ -1,11 +1,23 @@
 {
-  "posts": [
+  "actions": [
     {
-      "id": 1,
-      "title": "hello"
+      "show": {
+        "images": [
+          {
+            "label": "Practice",
+            "url": "https://www.speedlabs.in/images/ai-driven-practice.png"
+          },
+          {
+            "label": "Main",
+            "url": "https://www.speedlabs.in/images/img.png"
+          },
+          {
+            "label": "Report",
+            "url": "https://www.speedlabs.in/images/report.png"
+          }
+          
+        ]
+      }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
