@@ -3,6 +3,7 @@
       "actions":[ 
          { 
             "show":{ 
+               "body": "SpeedLabs Images",
                "images":[ 
                   { 
                      "label":"Practice",
