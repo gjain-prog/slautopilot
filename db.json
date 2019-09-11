@@ -3,7 +3,7 @@
       "actions":[ 
          { 
             "show":{ 
-               "body": "SpeedLabs Images",
+               "body": "The doubt posted by you seems to be similar to one of the below doubts posted by other students. Please choose the one which is the closest match by writing 1, 2 or 3 or if none seems to be matching, type 0",
                "images":[ 
                   { 
                      "label":"Practice",
